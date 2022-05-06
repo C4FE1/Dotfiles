@@ -1,3 +1,1 @@
 # Enjoy.Dotfiles
-
-./Setup.sh
