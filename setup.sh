@@ -1,4 +1,4 @@
-#/bin/sh
+#! /bin/sh
 echo Por favor fique de olho no terminal ele é muito picareta
 sudo su
 pacman -S nitrogen dunst network-manager-applet alacritty rofi bspwm sxhkd polybar compton git
