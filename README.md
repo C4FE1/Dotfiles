@@ -1,4 +1,7 @@
 # Get-Real.Dotfiles
+
+Lembrando Use o init-arch-scripts antes de usar esse script
+
 Só copia e cola :)
 
 ```sh
