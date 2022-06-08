@@ -56,4 +56,4 @@ exec xterm -geometry 80x66+0+0 -name login
 mpd &
 sxhkd &
 exec bspwm
-exec gnome
+#exec gnome
