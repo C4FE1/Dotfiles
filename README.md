@@ -2,7 +2,6 @@
 
 Esse Dotfiles serve pra usos pessoais mas se quiser usar ta aí
 
-Só copia e cola :)
 
 ```sh
 ./setup-{Sua distro}.sh
