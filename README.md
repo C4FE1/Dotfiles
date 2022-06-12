@@ -1,6 +1,6 @@
 # Dotfiles
 
-Lembrando Use o init-arch-scripts antes de usar esse script
+Esse Dotfiles serve pra usos pessoais mas se quiser usar ta aí
 
 Só copia e cola :)
 
