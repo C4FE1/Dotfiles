@@ -14,7 +14,7 @@ int main() {
         system("exec hyprland");
     } else if (interface == "hypr") {
 	system("exec hypr");
-    }else {
+    } else {
         cout << "Interface não reconhecida." << endl;
     }
     return 0;
